@@ -1,6 +1,13 @@
 # shadermapminigui
 A minimalistic GUI for [ShaderMap CL](http://shadermap.com/), originally written by German Garcia.
 
+## Screeenshots
+
+![Screenshot 1](/screenshots/gui1.jpg)
+![Screenshot 2](/screenshots/gui2.jpg)
+![Screenshot 3](/screenshots/gui3.jpg)
+![Screenshot 4](/screenshots/gui4.jpg)
+
 ## License (GPLv2)
 
 This program is free software; you can redistribute it and/or
